@@ -26,8 +26,7 @@ I am a Data Analyst with 6 years of experience focused on bridging the gap betwe
 ## 💼 Professional Experience
 
 - **Data Science Intern (Aug 2024):** Focused on rigorous data wrangling and data preparation workflows.
-- **Junior Data Analyst (Mar 2023):** Cleaned, preprocessed, and transformed data using Python (Pandas) and SQL, automating tasks to improve data quality and efficiency..
-- **Junior Data Analyst  CMA CGM (Mar 2023): ** Cleaned, preprocessed, and transformed data using Python (Pandas) and SQL, automating tasks to improve data quality and efficiency.
+- **Junior Data Analyst - CMA CGM (Mar 2023):** Cleaned, preprocessed, and transformed data using Python (Pandas) and SQL, automating tasks to improve data quality and efficiency.
 - ***Note: My core expertise in MLOps and full-stack integration was self-taught through dedicated project-based learning.***
 
 ## 📫 Let's Connect
