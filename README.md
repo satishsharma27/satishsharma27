@@ -31,5 +31,5 @@ I am a Data Analyst with 6 years of experience focused on bridging the gap betwe
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/satsham/](https://www.linkedin.com/in/satsham/)
+- **LinkedIn:** [satsham](https://www.linkedin.com/in/satsham/)
 - **Email:** [satish.sharma2709@gmail.com](mailto:satish.sharma2709@gmail.com)
