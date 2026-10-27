@@ -25,7 +25,7 @@ I am a Data Analyst with 6 years of experience focused on bridging the gap betwe
 
 ## 💼 Professional Experience
 
-- **Data Analyst - Publicis Groupe (Dec 2024):** Built ML/NLP models and automated data validation using Python, MLflow, and Power BI, improving CTR by 2% and taxonomy data quality from 75% to 95%.
+- **Data Analyst - Publicis Groupe (Present):** Built ML/NLP models and automated data validation using Python, MLflow, and Power BI, improving CTR by 2% and taxonomy data quality from 75% to 95%.
 - **Data Analyst - DHL (Dec 2024):** Developed Tableau dashboards, analysed large-scale data using SQL and Spark, performed statistical testing, and automated data validation, reducing quality issues by 5%.
 - **Junior Data Analyst - CMA CGM (Mar 2023):** Cleaned, preprocessed, and transformed data using Python (Pandas) and SQL, automating tasks to improve data quality and efficiency.
 - ***Note: My core expertise in MLOps and full-stack integration was self-taught through dedicated project-based learning.***
